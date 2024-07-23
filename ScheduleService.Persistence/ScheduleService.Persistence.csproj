@@ -4,7 +4,10 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>ScheduleService.DataAccess</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ScheduleService.Domain\ScheduleService.Domain.csproj" />
+    </ItemGroup>
 
 </Project>

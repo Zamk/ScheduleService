@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleService.API", "ScheduleService.API\ScheduleService.API.csproj", "{DB0AA3AB-62B1-47A7-8D01-491A0426F4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleService.Domain", "ScheduleService.Domain\ScheduleService.Domain.csproj", "{B2116BA0-8C19-422B-A810-ACB601DFADC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleService.Persistence", "ScheduleService.Persistence\ScheduleService.Persistence.csproj", "{7716858D-6559-4B31-82BF-05ABCCDC1D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleService.Application", "ScheduleService.Application\ScheduleService.Application.csproj", "{24840357-AC15-4677-B369-88BDA94D0D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0AA3AB-62B1-47A7-8D01-491A0426F4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0AA3AB-62B1-47A7-8D01-491A0426F4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0AA3AB-62B1-47A7-8D01-491A0426F4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0AA3AB-62B1-47A7-8D01-491A0426F4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2116BA0-8C19-422B-A810-ACB601DFADC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2116BA0-8C19-422B-A810-ACB601DFADC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2116BA0-8C19-422B-A810-ACB601DFADC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2116BA0-8C19-422B-A810-ACB601DFADC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7716858D-6559-4B31-82BF-05ABCCDC1D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7716858D-6559-4B31-82BF-05ABCCDC1D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7716858D-6559-4B31-82BF-05ABCCDC1D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7716858D-6559-4B31-82BF-05ABCCDC1D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24840357-AC15-4677-B369-88BDA94D0D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24840357-AC15-4677-B369-88BDA94D0D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24840357-AC15-4677-B369-88BDA94D0D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24840357-AC15-4677-B369-88BDA94D0D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
